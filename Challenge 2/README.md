@@ -24,19 +24,7 @@ The notebook follows these main steps:
 ### Prerequisites
 
 *   Google Colab environment or a local environment with Python and necessary libraries installed.
-*   The dataset provided for the Soil Image Classification Challenge, organized in the following structure:
 
-/content/soil_competition-2025-2
-├── train
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-├── test
-│   ├── test_image1.jpg
-│   ├── test_image2.jpg
-│   └── ...
-├── train_labels.csv
-└── test_ids.csv
 
 ### Installation
 
