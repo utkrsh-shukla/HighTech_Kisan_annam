@@ -1,3 +1,1 @@
-## SOIL CLASSIFICATION TASKS, LOOK IN CHALLANGES FOR EACH ONE'S README FILE
-
-
+# 🌱 Soil Image Classification Challenge - Annam.ai, IIT Ropar 🌱
