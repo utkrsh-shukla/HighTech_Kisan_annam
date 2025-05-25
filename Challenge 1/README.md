@@ -59,6 +59,27 @@ The notebook uses the following libraries:
 
 These dependencies are standard and should be available in the Colab environment.
 
+## Instruction To Run
+
+🛠️**Step 1: Clone the Repository**
+git clone https://github.com/utkrsh-shukla/HighTech_Kisan_annam.git
+cd HighTech_Kisan_annam
+
+📊 **Step 2: Train the Model**
+1.	Open **Soil_Classification_Training_Notebook.ipynb** in Jupyter Notebook or Google Colab.
+2.	Upload the required files:
+   train_labels.csv and 
+   train/ folder (containing training images)
+3.	Run all the cells to train the model and validate performance.
+4.	The notebook will show plots and the final validation accuracy.
+   
+🔍 **Step 3: Run Inference**
+1.	Open Soil_Classification_Inference_Notebook.ipynb.
+2.	Upload the test/ folder and the trained model (if saved).
+3.	Run all cells to generate predictions on test images.
+4.	A submission.csv file will be created with the predicted soil types.
+
+
 ## Results
 
 The notebook will output the following:
